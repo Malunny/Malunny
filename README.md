@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🤝 I am currently working on Katalyst Data Management<br>🌱 I’m currently learning ASP.NET, DevOps, React and Apis<br>💬 Ask me about how I develop!<br>⚡ Fun fact: I play eletric guitars
+🔭 I’m always studying more<br>🤝 I am currently working on Katalyst Data Management<br>🌱 I’m learning ASP.NET, DevOps, React and Apis<br>💬 Ask me about how I develop!<br>⚡ Fun fact: I play eletric guitars
 
 
 ## 🌐 Socials:
